@@ -1,3 +1,12 @@
 h1 {
   color: #FB3640;
 }
+body {
+  background-color: #bce6ec;
+  padding: 30px;
+}
+input, button {
+  background-color: #bce6ec;
+  border: 1px solid #5ebacb;
+  color: #126357;
+}
